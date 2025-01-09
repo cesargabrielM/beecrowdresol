@@ -1,2 +1,2 @@
 # beecrowdresol
-resoluções do beecrowd
+resoluções do beecrowd(https://judge.beecrowd.com/pt/login)
